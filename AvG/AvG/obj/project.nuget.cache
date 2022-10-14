@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kCYi3UGXzOD7HNxVHJMAV6xLK0ycDZU1W08vQ7U3tUxIRNiDIYTHjbaRTbRgrUhggDU95nTllTbWqFjqaiUGKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thisc\\source\\repos\\AvG\\AvG\\AvG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thisc\\.nuget\\packages\\nats.client\\1.0.1\\nats.client.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

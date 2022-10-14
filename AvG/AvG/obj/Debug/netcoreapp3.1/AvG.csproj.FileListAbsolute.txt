@@ -1,0 +1,7 @@
+C:\Users\thisc\source\repos\AvG\AvG\obj\Debug\netcoreapp3.1\AvG.csproj.AssemblyReference.cache
+C:\Users\thisc\source\repos\AvG\AvG\obj\Debug\netcoreapp3.1\AvG.Form1.resources
+C:\Users\thisc\source\repos\AvG\AvG\obj\Debug\netcoreapp3.1\AvG.csproj.GenerateResource.cache
+C:\Users\thisc\source\repos\AvG\AvG\obj\Debug\netcoreapp3.1\AvG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisc\source\repos\AvG\AvG\obj\Debug\netcoreapp3.1\AvG.AssemblyInfoInputs.cache
+C:\Users\thisc\source\repos\AvG\AvG\obj\Debug\netcoreapp3.1\AvG.AssemblyInfo.cs
+C:\Users\thisc\source\repos\AvG\AvG\obj\Debug\netcoreapp3.1\AvG.csproj.CoreCompileInputs.cache
